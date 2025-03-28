@@ -1,0 +1,126 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #1e1e1e;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Reset & base styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #1e1e1e;
+  color: #636363;
+}
+
+a {
+  color: #4dabf7;
+  text-decoration: none;
+}
+a:hover {
+  color: #74c0fc;
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #ffffff;
+  text-align: center;
+}
+
+.container {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: #2c2c2c;
+  color: #f1f1f1;
+  border: 1px solid #444;
+}
+
+.card-title {
+  color: #ffffff;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+button,
+.btn {
+  background-color: #333;
+  color: #fff;
+  border: 1px solid #555;
+  transition: 0.2s ease;
+}
+
+button:hover,
+.btn:hover {
+  background-color: #444;
+  border-color: #888;
+}
+
+.form-select,
+input,
+select {
+  background-color: #2c2c2c;
+  color: #ffffff;
+  border: 1px solid #555;
+}
+
+input:checked {
+  background-color: #4dabf7;
+}
+
+/* Cart summary fixed top-right with margin to not hug edge */
+.cart-summary-fixed {
+  position: fixed;
+  top: 1rem;
+  right: 1.5rem;
+  z-index: 999;
+  background-color: #2c2c2c;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+}
+
+/* Pagination spacing */
+.pagination button {
+  margin: 0 0.25rem;
+}
+
+/* Checkbox filters left-aligned */
+.category-filter label {
+  margin-left: 0.5rem;
+}
+
+.category-filter .form-check {
+  text-align: left;
+}
+
+/* Bookstore page fine-tune */
+.bookstore-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
