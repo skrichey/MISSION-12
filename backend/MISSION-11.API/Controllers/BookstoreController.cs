@@ -69,10 +69,26 @@ namespace MISSION_11.API.Controllers
         [HttpPost]
         public async Task<ActionResult<Book>> CreateBook([FromBody] Book newBook)
         {
+            if (!ModelState.IsValid)
+            {
+                foreach (var key in ModelState.Keys)
+                {
+                    var state = ModelState[key];
+                    foreach (var error in state.Errors)
+                    {
+                        Console.WriteLine($"{key}: {error.ErrorMessage}");
+                    }
+                }
+
+                return BadRequest(ModelState);
+            }
+
             _context.Books.Add(newBook);
             await _context.SaveChangesAsync();
+
             return CreatedAtAction(nameof(GetBook), new { id = newBook.BookId }, newBook);
         }
+
 
         // PUT: api/bookstore/{id}
         [HttpPut("{id}")]

@@ -35,7 +35,8 @@ if (app.Environment.IsDevelopment())
 }
 
 // Use the correct CORS policy
-app.UseCors(x => x.WithOrigins("http://localhost:3000"));  // Apply the CORS policy for React frontend
+app.UseCors("AllowReactApp");
+// Apply the CORS policy for React frontend
 
 app.UseHttpsRedirection();
 app.UseAuthorization();
