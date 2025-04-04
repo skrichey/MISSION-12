@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/cb06f6af-400a-4371-be67-394635745d11/resourceGroups/appsvc_windows_westus3/providers/Microsoft.Web/sites/MISSION-13-RICHEY-SAMUEL-Backend",
+    "appService.deploySubpath": "backend\\MISSION-11.API\\publish"
+}

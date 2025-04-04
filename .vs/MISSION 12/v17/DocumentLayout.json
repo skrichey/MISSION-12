@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samri\\OneDrive\\Documents\\BYU Classes\\IS 413 - Enterprise Application Development\\MISSION 12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B13D474-4980-41E6-B230-64F3DDAE9850}|backend\\MISSION-11.API\\MISSION-11.API.csproj|c:\\users\\samri\\onedrive\\documents\\byu classes\\is 413 - enterprise application development\\mission 12\\backend\\mission-11.api\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B13D474-4980-41E6-B230-64F3DDAE9850}|backend\\MISSION-11.API\\MISSION-11.API.csproj|solutionrelative:backend\\mission-11.api\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B13D474-4980-41E6-B230-64F3DDAE9850}|backend\\MISSION-11.API\\MISSION-11.API.csproj|c:\\users\\samri\\onedrive\\documents\\byu classes\\is 413 - enterprise application development\\mission 12\\backend\\mission-11.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B13D474-4980-41E6-B230-64F3DDAE9850}|backend\\MISSION-11.API\\MISSION-11.API.csproj|solutionrelative:backend\\mission-11.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B13D474-4980-41E6-B230-64F3DDAE9850}|backend\\MISSION-11.API\\MISSION-11.API.csproj|c:\\users\\samri\\onedrive\\documents\\byu classes\\is 413 - enterprise application development\\mission 12\\backend\\mission-11.api\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B13D474-4980-41E6-B230-64F3DDAE9850}|backend\\MISSION-11.API\\MISSION-11.API.csproj|solutionrelative:backend\\mission-11.api\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B13D474-4980-41E6-B230-64F3DDAE9850}|backend\\MISSION-11.API\\MISSION-11.API.csproj|c:\\users\\samri\\onedrive\\documents\\byu classes\\is 413 - enterprise application development\\mission 12\\backend\\mission-11.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5B13D474-4980-41E6-B230-64F3DDAE9850}|backend\\MISSION-11.API\\MISSION-11.API.csproj|solutionrelative:backend\\mission-11.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 412,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\samri\\OneDrive\\Documents\\BYU Classes\\IS 413 - Enterprise Application Development\\MISSION 12\\backend\\MISSION-11.API\\Data\\Book.cs",
+              "RelativeDocumentMoniker": "backend\\MISSION-11.API\\Data\\Book.cs",
+              "ToolTip": "C:\\Users\\samri\\OneDrive\\Documents\\BYU Classes\\IS 413 - Enterprise Application Development\\MISSION 12\\backend\\MISSION-11.API\\Data\\Book.cs",
+              "RelativeToolTip": "backend\\MISSION-11.API\\Data\\Book.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:08:04.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookstoreController.cs",
+              "DocumentMoniker": "C:\\Users\\samri\\OneDrive\\Documents\\BYU Classes\\IS 413 - Enterprise Application Development\\MISSION 12\\backend\\MISSION-11.API\\Controllers\\BookstoreController.cs",
+              "RelativeDocumentMoniker": "backend\\MISSION-11.API\\Controllers\\BookstoreController.cs",
+              "ToolTip": "C:\\Users\\samri\\OneDrive\\Documents\\BYU Classes\\IS 413 - Enterprise Application Development\\MISSION 12\\backend\\MISSION-11.API\\Controllers\\BookstoreController.cs",
+              "RelativeToolTip": "backend\\MISSION-11.API\\Controllers\\BookstoreController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwH0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:54:01.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samri\\OneDrive\\Documents\\BYU Classes\\IS 413 - Enterprise Application Development\\MISSION 12\\backend\\MISSION-11.API\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\MISSION-11.API\\Program.cs",
+              "ToolTip": "C:\\Users\\samri\\OneDrive\\Documents\\BYU Classes\\IS 413 - Enterprise Application Development\\MISSION 12\\backend\\MISSION-11.API\\Program.cs",
+              "RelativeToolTip": "backend\\MISSION-11.API\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:38:45.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\samri\\OneDrive\\Documents\\BYU Classes\\IS 413 - Enterprise Application Development\\MISSION 12\\backend\\MISSION-11.API\\.gitignore",
+              "RelativeDocumentMoniker": "backend\\MISSION-11.API\\.gitignore",
+              "ToolTip": "C:\\Users\\samri\\OneDrive\\Documents\\BYU Classes\\IS 413 - Enterprise Application Development\\MISSION 12\\backend\\MISSION-11.API\\.gitignore",
+              "RelativeToolTip": "backend\\MISSION-11.API\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-28T18:11:23.212Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
