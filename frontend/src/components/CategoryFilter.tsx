@@ -12,7 +12,7 @@ function CategoryFilter({
   const [isOpen, setIsOpen] = useState(false);
 
   useEffect(() => {
-    fetch('https://localhost:5000/api/bookstore/categories')
+    fetch('https://mission-13-richey-samuel-backend-cddmfjhqb6g0gbdb.westus3-01.azurewebsites.net/api/bookstore/categories')
       .then(res => res.json())
       .then(setCategories)
       .catch(err => {
